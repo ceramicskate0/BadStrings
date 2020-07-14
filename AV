@@ -1,2 +1,28 @@
 mimikatz
 Seatbelt
+SamQueryInformation
+UserSamOpenUserLists 
+all available providers credentials
+Switch (or reinit) to LSASS process  context
+Lists LiveSSP credentials
+NetworkCleartext
+ServiceProxyPathCombine
+BatchUnlockNetworkUnknown
+InteractiveServiceUndefined
+LogonTypeList 
+Credentials Manager
+dpapisrv.dll
+multirdp[experimental] 
+patch Terminal Server service to allow multiples users
+DumpCredslivessp.dll
+wdigest.dll
+kerberos.dll
+termsrv.dll
+FromArgs/sam or /sid to target the account is needed
+CERT_NCRYPT_KEY_SPEC
+Kiwi
+KiwiAndCMD
+CryptAcquireCertificatePrivateKey
+ERRORArgumentPtrCallDllMainSC1
+gentilkiwi
+Benjamin DELPY

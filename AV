@@ -1,5 +1,7 @@
 mimikatz
 Mimikatz
+mimi
+Mimi
 sekurlsa::dpapi
 sekur
 Seatbelt
@@ -45,3 +47,6 @@ CryptAcquireCertificatePrivateKey
 ERRORArgumentPtrCallDllMainSC1
 gentilkiwi
 Benjamin DELPY
+DPAPI
+beacon
+Beacon

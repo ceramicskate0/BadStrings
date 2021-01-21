@@ -48,6 +48,7 @@ KiwiAndCMD
 CryptAcquireCertificatePrivateKey
 ERRORArgumentPtrCallDllMainSC1
 gentilkiwi
+@gentilkiwi
 Benjamin DELPY
 DPAPI
 beacon

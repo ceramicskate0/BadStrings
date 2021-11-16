@@ -34,13 +34,9 @@ BatchUnlockNetworkUnknown
 InteractiveServiceUndefined
 LogonTypeList 
 Credentials Manager
-dpapisrv.dll
-multirdp[experimental] 
+multirdp
 patch Terminal Server service to allow multiples users
 DumpCredslivessp.dll
-wdigest.dll
-kerberos.dll
-termsrv.dll
 FromArgs/sam or /sid to target the account is needed
 CERT_NCRYPT_KEY_SPEC
 Kiwi

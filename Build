@@ -1,3 +1,6 @@
 AssemblyTitle(\(.*?\))~AssemblyTitle("")
 AssemblyProduct(\(.*?\))~AssemblyProduct("")
 SharpCloud.exe
+Seatbelt.exe
+SeatBelt.exe
+Rubeus.exe

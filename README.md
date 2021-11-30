@@ -10,3 +10,6 @@ List of Bad Strings to not put in files.
 
 ### Contribute:
 - Submit pull request or issue
+
+### REF:
+- .Net RegEx Testing http://regexstorm.net/tester

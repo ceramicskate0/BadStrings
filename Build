@@ -1,1 +1,2 @@
-SharpCloud
+AssemblyTitle("SharpCloud")~AssemblyTitle("")
+AssemblyProduct("SharpCloud")~AssemblyProduct("")

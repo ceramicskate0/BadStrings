@@ -1,8 +1,4 @@
 AssemblyTitle(\(.*?\))~AssemblyTitle("")
 AssemblyProduct(\(.*?\))~AssemblyProduct("")
-SharpCloud.exe
-Seatbelt.exe
-SeatBelt.exe
-Rubeus.exe
+<DebugType>pdbonly</DebugType>~<DebugType>none</DebugType>
 MSSE-
-BingMaps.dll

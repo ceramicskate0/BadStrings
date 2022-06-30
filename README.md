@@ -7,6 +7,7 @@ List of Bad Strings to not put in files.
 |Repo File Name| Description
 | --------------- | --------------- |
 |AV|This file is a list of strings that will commonly get a file flagged by AV and/or EDR.
+|Build|This file is a list of RegEX styled list of things to change.
 
 ### Contribute:
 - Submit pull request or issue
